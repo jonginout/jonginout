@@ -7,9 +7,8 @@
 - Front End
 - Devops
 
-----
 
-<div align=center>
+<div align=right>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-gray?style=flat-square&logo=web&link=https://velog.io/@manofbell)			](https://velog.io/@manofbell)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/jonginout/)			](https://github.com/jonginout/)
